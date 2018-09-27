@@ -1,1 +1,1 @@
-# DataStructureInJS
+# jStructure
